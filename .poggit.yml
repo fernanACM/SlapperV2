@@ -1,7 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/fernanACM/SlapperV2
-branches:
-- master
-projects:
-  SlapperV2:
-    path: ""
-...
