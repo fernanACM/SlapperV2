@@ -9,5 +9,4 @@ projects:
       lint:
       phpstan: false
       phpstan: true
-      phpstan: false
 ... 
