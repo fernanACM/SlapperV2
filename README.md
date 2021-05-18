@@ -13,6 +13,6 @@ He tomado como inspiración el plugin de Jojoe77777 y modificado algunas cosas:
 
 
 
-**[Descargar]**
+**[Descargar] https://poggit.pmmp.io/r/125882/SlapperV2_dev-1.phar**
 
 
