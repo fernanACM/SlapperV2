@@ -9,7 +9,7 @@ He tomado como inspiración el plugin de Jojoe77777 y modificado algunas cosas:
 
 **[GitHub]** 
 
-**[Poggit]**
+**[Poggit] https://poggit.pmmp.io/ci/fernanACM/SlapperV2**
 
 
 
