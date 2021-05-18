@@ -8,5 +8,5 @@ projects:
     path: ""
       lint:
       phpstan: false
-      phpstan: true
+      phpstan: false
 ...
