@@ -7,7 +7,7 @@ disfruten de SlapperV2 hecho por mi (fernanACM).
 
 He tomado como inspiración el plugin de Jojoe77777 y modificado algunas cosas:
 
-**[GitHub]** 
+**[GitHub] https://github.com/fernanACM** 
 
 **[Poggit] https://poggit.pmmp.io/ci/fernanACM/SlapperV2**
 
