@@ -5,7 +5,7 @@ branches:
 projects:
   SlapperV2:
     path: ""
-      lint:
+    lint:
       phpstan: false
 
 ...
