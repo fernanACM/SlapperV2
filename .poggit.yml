@@ -1,12 +1,11 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/fernanACM/SlapperV2
 build-by-default: true
 branches:
-- master
 - main
+- master
 projects:
   SlapperV2:
     path: ""
       lint:
       phpstan: false
-      phpstan: true
 ...
