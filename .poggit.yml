@@ -7,5 +7,4 @@ projects:
   SlapperV2:
     path: ""
       lint:
-      phpstan: false
 ... 
