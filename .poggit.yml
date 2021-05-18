@@ -10,4 +10,5 @@ projects:
       phpstan: false
       phpstan: true
       phpstan: false
+      phpstan: true
 ...
