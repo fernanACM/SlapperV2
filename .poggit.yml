@@ -7,13 +7,18 @@ projects:
   SlapperV2:
     path: ""
       lint:
-        phpstan: false
-        phpstan: true
-        phpstan: false
-        phpstan: true
-        phpstan: true
-        phpstan: true
-        phpstan: true
-        phpstan: true
-        phpstan: true
+      phpstan: false
+      phpstan: true
+      phpstan: false
+      phpstan: true
+      phpstan: true
+      phpstan: true
+      phpstan: true
+      phpstan: true
+      phpstan: true
+      phpstan: true
+      phpstan: true
+      phpstan: true
+      phpstan: true
+      phpstan: true
 ... 
