@@ -3,7 +3,7 @@
 
 No incluye nada nuevo, pero si solución de algunos fallos. Espero que les guste.
 
-disfruten de SlapperV2 hecho por Jojoe77777
+disfruten de SlapperV2 actualizado por mi (fernanACM)
 
 He tomado como inspiración el plugin de Jojoe77777 para actualizarlo y que puedan disfrutar de el.
 
