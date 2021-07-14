@@ -1,7 +1,7 @@
 ---
 name: Slapper
 author: fernanACM
-version: 1.6.6
+version: 2.0.1
 description: Slapper, the NPC plugin for PocketMine-MP
 main: slapper\Main
 api:
@@ -16,6 +16,7 @@ mcpe-protocol:
 - 428
 - 431
 - 440
+- 448
 commands:
   slapper:
     description: Create a Slapper NPC, or edit an existing one!
