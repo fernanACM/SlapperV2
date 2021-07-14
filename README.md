@@ -1,5 +1,5 @@
 # SlapperV2
-### Actualización para la API (3.20.0) y de protocol "440" para Minecraft pe 1.17.0
+### Actualización para la API (3.22.0) y de protocol "448" para Minecraft pe 1.17.10
 
 No incluye nada nuevo, pero si solución de algunos fallos. Espero que les guste.
 
