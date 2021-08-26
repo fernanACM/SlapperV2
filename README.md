@@ -1,5 +1,5 @@
 # SlapperV2
-### New fixed version of SlapperV2: Bug fixes in slapperV2
+### New fixed version of SlapperV2: Bug fixes in SlapperV2
 _________________________________________________________________________________________
 
 ### Update dashboard
@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 * 1.- [Download](https://poggit.pmmp.io/r/138705/SlapperV2_dev-30.phar) the current version of SlapperV2.
 * 2.- Move dowloaded file to your server /plugins/ folder
-* 3.- Restart the server
+* 3.- **Restart the server**
 -------------------------------------------------------------------------------------------------------------
 ### Commands
 * They are going to execute the command '/slapper help':
@@ -94,3 +94,7 @@ ________________________________________________________________________________
         "LavaSlime", "Squid", "ElderGuardian", "Endermite",
         "Evoker", "Guardian", "PolarBear", "Shulker",
         "Vex", "Vindicator", "Wither", "Llama"
+ ***
+ #### Bug Report
+ 
+* Any bug that arises, let me know here [click](https://github.com/fernanACM/SlapperV2/pulls)
