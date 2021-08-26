@@ -7,16 +7,16 @@ ________________________________________________________________________________
 |-------|-------------|-------------|-----------|-------|
 | 4.0.1 | [Poggit](https://poggit.pmmp.io/r/138705/SlapperV2_dev-30.phar) | [GitHub](https://github.com/fernanACM/SlapperV2/archive/refs/heads/main.zip) |3.22.2| 448 |
 __________________________________________________________________________________________
+
 ### How to use SlapperV2?
 
 * It is very easy, you just have to put: '/slapper help', there they will give you the necessary information.
 -------------------------------------------------------------------------------------------------------------
 ### How to install SlapperV2?
 
-1.- [Download](https://poggit.pmmp.io/r/138705/SlapperV2_dev-30.phar) 
-the current version of SlapperV2.
-2.- Move dowloaded file to your server /plugins/ folder
-3.- Restart the server
+* 1.- [Download](https://poggit.pmmp.io/r/138705/SlapperV2_dev-30.phar) the current version of SlapperV2.
+* 2.- Move dowloaded file to your server /plugins/ folder
+* 3.- Restart the server
 -------------------------------------------------------------------------------------------------------------
 ### Commands
 * They are going to execute the command '/slapper help':
