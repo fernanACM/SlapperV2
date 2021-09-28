@@ -6,7 +6,6 @@ ________________________________________________________________________________
 | Version | Phar Download |	Zip Download | API Stable | mcpe-protocol | 
 |-------|-------------|-------------|-----------|-------|
 | 4.0.2 | [Poggit](https://poggit.pmmp.io/r/143423/SlapperV2_dev-39.phar) | [GitHub](https://github.com/fernanACM/SlapperV2/archive/refs/heads/main.zip) |3.23.1| 465 |
-|-------|-------------|-------------|-----------|-------|
 | 4.0.1 | [Poggit](https://poggit.pmmp.io/r/138705/SlapperV2_dev-30.phar) | [GitHub](https://github.com/fernanACM/SlapperV2/archive/refs/heads/main.zip) |3.22.2| 448 |
 __________________________________________________________________________________________
 
