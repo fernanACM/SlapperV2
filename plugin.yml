@@ -4,8 +4,7 @@ author: Fixed fernanACM
 version: 4.0.2
 description: Slapper, the NPC plugin for PocketMine-MP
 main: slapperV2\Main
-api:
-- 3.22.0
+api: [4.0.0, 3.0.0]
 website: 
 commands:
   slapper:
